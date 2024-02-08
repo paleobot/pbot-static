@@ -1,5 +1,5 @@
 How to use:
 
-cd into pbot-client/public
-clone pbot-static (including project directory)
+1) cd into pbot-client/public
+2) clone pbot-static (including project directory)
 
