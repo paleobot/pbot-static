@@ -12,6 +12,6 @@ Fossil plants provide the best record of how Earth’s environments have changed
 ## How was PBot designed?
 PBot development began in 2021, with funding from NSF EarthCube Award [#2026961](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026961&HistoricalAwards=false). The PBot development team committed to creating a system that is “of the community, by the community, and for the community,” and feedback from the international paleobotanical community was incorporated during every step of the development process.
 
-PBot utilizes a graph database. **Additional text from Andrew about why this is amazing and what it allows us to do.**
+PBot utilizes a graph database. A graph database was chosen for PBOT because its network structure is easily understood by paleobotanists as it mirrors common biological concepts such as food webs and taxonomic hierarchies. Furthermore, graph databases naturally lend themselves to [similarity analyses](https://doi.org/10.1371/journal.pone.0228728), which can be utilized for practical goals such as more powerful search functionality and for scientific objectives such as cladistic analysis.
 
 <img src="/pbot-static/About/Overview/OverviewPageGraphics2static.jpg" width="800">
