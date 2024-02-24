@@ -1,10 +1,10 @@
 # Person Node
 ## Instructions for data entry
-PBot uses person to record limited, but specific identifying information about individuals. Individuals who will be added to the PBot database include users and published authors. Note, if you are a registered user, person data has already been created for you.
+PBot uses Person to record limited, but specific identifying information about individuals. Individuals who will be added to the PBot database include users and published authors. Note, if you are a registered user, a Person Node has already been created for you.
 
 PBot does check internally for duplicates when you submit a new Person Node, but the given name and surname must exactly match the current PBot entry, including capitalization. The best practices to prevent duplicates are to check for existing persons before entering new data and to enter as detailed information as possible to distinguish between individuals with similarities even if that information is not required (e.g., complete middle name).
 
-Recommended process to check for if a person has already been entered in PBot:
+Recommended process to check whether a person has already been entered in PBot:
 * Make a list of all the people you would like to use in your data entry process. For example, create a list of authors for a reference.
 * Go to PBot Explore, choose a Person search, and enter the Surname. Determine which members on your list still need to be entered.
 * Enter new persons using the Add (+) function in PBot Workbench.
