@@ -10,7 +10,6 @@ PBot uses the concept of Collections, as implemented and required by the Paleobi
 
 **Prior to creating a new Collection, please determine whether the Collection already exists in the Paleobiology Database.** From the PBot Collections Form, enter the latitude and longitude of the collection, and then click the magnifying glass next to the PBDB ID field. If the collection exists in PBDB, first select “Populate all fields,” and then click on the collection to autopopulate the data into the PBot Collections Form. Enter any additional collection information in the PBot Collection Form and then submit.
 
-
 ## REQUIRED FIELDS:
 **Name** – A unique identification that may also aid in recognizing close links among collections. 80 character limit. For example, if you are entering a series of consecutive beds, you could provide a location name and meter level (e.g., “Saddle Mountain 1.5 meter bed” and “Saddle Mountain 2.0 meter bed”). Keep it short: do not include the stratigraphic age, location details, or the name of the formation, country, state, etc.
 
@@ -113,9 +112,9 @@ Decimal degree digits – What digits mean in latitude and longitude decimal deg
 * The **sixth decimal place** gives a position up to 0.11 m: you can use this for laying out structures in detail, for designing landscapes, building roads. It should be more than good enough for tracking movements of glaciers and rivers. This can be achieved by taking painstaking measures with GPS, such as differentially corrected GPS.
 
 Degrees, minutes, and seconds (DMS) digits – What digits mean in DMS versus decimal degrees using WGS84. The DMS explanations below were adapted from USGS.gov on 10-10-2023. The guide provided can be used to conserve the precision of latitude and longitude reported using DMS to the same level of precision using decimal degrees. Consider all contextual information when estimating radius of uncertainty.
-One degree of latitude equals approximately 110,947 m, one minute equals approximately 1850 m, and one second equals approximately 31 m. 
-One degree of longitude equals approximately 87,843 m, one minute equals approximately 1463 m, and one second equals approximately 24 m. 
-To convert latitude and longitude precision from DMS to decimal degrees, consider the following guide. Use the DMS column on the left to determine how many decimals to report using decimal degrees.
+* One degree of latitude equals approximately 110,947 m, one minute equals approximately 1850 m, and one second equals approximately 31 m. 
+* One degree of longitude equals approximately 87,843 m, one minute equals approximately 1463 m, and one second equals approximately 24 m. 
+* To convert latitude and longitude precision from DMS to decimal degrees, consider the following guide. Use the DMS column on the left to determine how many decimals to report using decimal degrees.
 |DMS			|decimal degress|
 |:--------:|:-------------:|
 |0°0’	|0.0|
