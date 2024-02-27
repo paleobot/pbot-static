@@ -1,7 +1,7 @@
 # Reference Node
 ## Instructions for data entry
 
-PBot’s goal is for all stored data (Collections, Specimens, OTUs, Descriptions, Schemas, proposed Synonyms) to be associated with a published reference. However, as PBot is also a workbench for paleobotanical research, data can also be linked to informal, unpublished references (e.g., “Ellen’s Hanna Basin Research”) prior to publication. PBot uses References to ensure data quality, reproducibility, and tracking; however, PBot is not intended to be a substitute for publishing in peer-reviewed literature, nor is it intended to automatically generate comprehensive bibliographies. Note that all Reference nodes are publicly accessible to avoid duplication of records, even if data associated with that reference is private.
+PBot’s goal is for all stored data (Collections, Specimens, OTUs, Descriptions, Schemas, proposed Synonyms) to be associated with a published reference. However, as PBot is also a workbench for paleobotanical research, data can also be linked to informal, unpublished references (e.g., “Ellen’s Hanna Basin Research”) prior to publication. PBot uses References to ensure data quality, reproducibility, and tracking; however, PBot is not intended to be a substitute for publishing in peer-reviewed literature, nor is it intended to automatically generate comprehensive bibliographies. Note that all Reference nodes are publicly accessible to avoid duplication of records, even if data associated with that Reference is private.
 
 *Entering References:*
 Before you begin entering a Reference, make sure that Person nodes have already been created for each author. Should you realize mid-entry that a Person node does not exist for one of the authors, it is possible to edit the Reference later to add the additional author after creating their Person node.
@@ -16,7 +16,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Year** – The year (include all four digits) in which the article was published.
 
-**PBDB ID** – If the Reference already exists in the Paleobiology Database, then this field stores the reference’s PBDB identification number. If the Reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
+**PBDB ID** – If the Reference already exists in the Paleobiology Database, then this field stores the Reference’s PBDB identification number. If the Reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
 
 **Authors** – Link each author’s Person node to the Reference. The “Order” field allows you to enter author order (numbers only). Click the magnifying glass to bring up a PBot search for Person nodes, enter search information, and choose the correct Person. Click “ADD AUTHORS” to search for the next author’s Person node. Make sure to enter all authors.
 
@@ -31,9 +31,9 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Last page number** - Enter the last page number of the article. If the pages are numbered with combinations of numbers and letters (e.g., “A-32”), put everything in and do not strip the letters. Do not put a hyphen before the page number.
 
-**Notes** – Enter any additional comments you have about the reference.
+**Notes** – Enter any additional comments you have about the Reference.
 
-**DOI** – The digital object identifier of the reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
+**DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## STANDALONE BOOK
 ### REQUIRED FIELDS: 
@@ -41,7 +41,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Year** – The year (include all four digits) in which the book was published.
 
-**PBDB ID** – If the reference already exists in the Paleobiology Database, then this field stores the reference’s PBDB identification number. If the reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
+**PBDB ID** – If the Reference already exists in the Paleobiology Database, then this field stores the Reference’s PBDB identification number. If the Reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
 
 **Authors** – Link each author’s Person node to the Reference. The “Order” field allows you to enter author order (numbers only). Click the magnifying glass to bring up a PBot search for Person nodes, enter search information, and choose the correct Person. Click “ADD AUTHORS” to search for the next author’s Person node. Make sure to enter all authors.
 
@@ -54,9 +54,9 @@ To enter a Reference, first select the **Publication type** to see the required 
 **Type** – Choose from the following options: thesis (any degree level), monograph, compendium, or other.
 
 ### OPTIONAL FIELDS: 
-**Notes** – Enter any additional comments you have about the reference.
+**Notes** – Enter any additional comments you have about the Reference.
 
-**DOI** – The digital object identifier of the reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
+**DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## EDITED BOOK OF CONTRIBUTED ARTICLES: *for citing the whole book*
 ### REQUIRED FIELDS: 
@@ -64,7 +64,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Year** – The year (include all four digits) in which the book was published.
 
-**PBDB ID** – If the reference already exists in the Paleobiology Database, then this field stores the reference’s PBDB identification number. If the reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
+**PBDB ID** – If the Reference already exists in the Paleobiology Database, then this field stores the Reference’s PBDB identification number. If the Reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
 
 **Editors** – Unlike authors, editors are not associated with Person nodes and should be typed in manually. Do not spell out editors’ full given and/or middle names. Put a period after each initial and a space between each pair of initials (For example: C. C. Cleveland). Use comma separators, and do not use the word “and” before the last editor.
 
@@ -75,9 +75,9 @@ To enter a Reference, first select the **Publication type** to see the required 
 **Last page number** - Enter the last page number of the book, which is also the total number of pages in the book. If the pages are numbered with combinations of numbers and letters (e.g., “A-32”), put everything in and do not strip the letters. Do not put a hyphen before the last page number.
 
 ### OPTIONAL FIELDS: 
-**Notes** – Enter any additional comments you have about the reference.
+**Notes** – Enter any additional comments you have about the Reference.
 
-**DOI** – The digital object identifier of the reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
+**DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## CONTRIBUTED ARTICLES IN EDITED BOOK: *for citing an individual article*
 ### REQUIRED FIELDS: 
@@ -85,7 +85,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Year** – The year (include all four digits) in which the book was published.
 
-**PBDB ID** – If the reference already exists in the Paleobiology Database, then this field stores the reference’s PBDB identification number. If the reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
+**PBDB ID** – If the Reference already exists in the Paleobiology Database, then this field stores the Reference’s PBDB identification number. If the Reference does not exist already in PBDB, this field may be left blank. See instructions at the beginning of this document (above Journal article) for instructions on searching PBDB.
 
 **Authors** – Link each author’s Person node to the Reference. The “Order” field allows you to enter author order (numbers only). Click the magnifying glass to bring up a PBot search for Person nodes, enter search information, and choose the correct Person. Click “ADD AUTHORS” to search for the next author’s Person node. Make sure to enter all authors.
 
@@ -112,7 +112,7 @@ Ideally, an unpublished reference should be a placeholder for an intended future
 
 **Year** – Enter the current year (include all four digits) as a timestamp of when the unpublished reference was created.
 
-**Authors** – Link each author’s Person node to the reference. The “Order” field allows you to enter author order (numbers only). Click the magnifying glass to bring up a PBot search for Person nodes, enter search information, and choose the correct Person. Click “ADD AUTHORS” to search for the next author’s Person node. Make sure to enter all authors.
+**Authors** – Link each author’s Person node to the Reference. The “Order” field allows you to enter author order (numbers only). Click the magnifying glass to bring up a PBot search for Person nodes, enter search information, and choose the correct Person. Click “ADD AUTHORS” to search for the next author’s Person node. Make sure to enter all authors.
 
 **Description** – A short summary of the unpublished reference. Remember that all Reference nodes are publicly accessible.
 
