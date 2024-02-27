@@ -115,9 +115,10 @@ Degrees, minutes, and seconds (DMS) digits – What digits mean in DMS versus de
 * One degree of latitude equals approximately 110,947 m, one minute equals approximately 1850 m, and one second equals approximately 31 m. 
 * One degree of longitude equals approximately 87,843 m, one minute equals approximately 1463 m, and one second equals approximately 24 m. 
 * To convert latitude and longitude precision from DMS to decimal degrees, consider the following guide. Use the DMS column on the left to determine how many decimals to report using decimal degrees.<br>
-|DMS|decimal degrees|
-|:---:|:---:|
-|0°0’|0.0|
+
+| DMS        | decimal degrees          |
+| :-------------: |:-------------:|
+| 0°0’      | 0.0 |
 |0°0’0”|0.01|
 |0°0’0.0”|0.001|
 |0°0’0.00”|0.0001|
