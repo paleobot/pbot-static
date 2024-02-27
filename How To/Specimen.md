@@ -17,7 +17,7 @@ Parts preserved – Select the organ(s) or part(s) of the plant that are represe
 ## OPTIONAL FIELDS: OTHER
 **Notable features preserved** – Choose from the list any notable aspects of the specimen that are known to be preserved.
 
-**References** – Choose an existing Reference, or References, for the Specimen if it has been included in any publications. You may choose a personal ‘working reference’ (see Reference Instruction sheet) if the specimen has not been published but is part of an in-progress project. Enter the order number for the Reference to indicate its priority in the reference list, with the most relevant publication as order 1. 
+**References** – Choose an existing Reference, or References, for the Specimen if it has been included in any publications. You may choose a personal ‘working reference’ (see [Reference Instruction sheet](https://github.com/paleobot/pbot-static/blob/d2d0d69162fc1324b29cf01c143cc63b3c844d37/How%20To/Reference.md)) if the specimen has not been published but is part of an in-progress project. Enter the order number for the Reference to indicate its priority in the reference list, with the most relevant publication as order 1. 
 	
 **Identified by** – Choose names of people (Person nodes) that are responsible for identifying the specimen as a particular OTU. Note that Specimens are assigned to OTUs through the OTU page. Should you realize mid-entry that a Person node does not exist for one of the identifiers, it is possible to edit the specimen later to add an identifier after creating their Person node.
 
