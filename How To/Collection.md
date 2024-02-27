@@ -114,7 +114,7 @@ Decimal degree digits – What digits mean in latitude and longitude decimal deg
 Degrees, minutes, and seconds (DMS) digits – What digits mean in DMS versus decimal degrees using WGS84. The DMS explanations below were adapted from USGS.gov on 10-10-2023. The guide provided can be used to conserve the precision of latitude and longitude reported using DMS to the same level of precision using decimal degrees. Consider all contextual information when estimating radius of uncertainty.
 * One degree of latitude equals approximately 110,947 m, one minute equals approximately 1850 m, and one second equals approximately 31 m. 
 * One degree of longitude equals approximately 87,843 m, one minute equals approximately 1463 m, and one second equals approximately 24 m. 
-* To convert latitude and longitude precision from DMS to decimal degrees, consider the following guide. Use the DMS column on the left to determine how many decimals to report using decimal degrees.
+* To convert latitude and longitude precision from DMS to decimal degrees, consider the following guide. Use the DMS column on the left to determine how many decimals to report using decimal degrees.<br>
 |DMS|decimal degrees|
 |:---:|:---:|
 |0°0’|0.0|
