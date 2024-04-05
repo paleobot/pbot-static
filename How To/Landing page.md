@@ -4,7 +4,8 @@
 [Reference](https://github.com/paleobot/pbot-static/blob/40f0e06a93170c609a31ab7f8936bd988cba7df8/How%20To/Reference.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Collection](
 https://github.com/paleobot/pbot-static/blob/418b8d3e38fe01d57f270f86e85192edace25529/How%20To/Collection.md)&nbsp;&nbsp;&nbsp;&nbsp;
-[Specimen](https://github.com/paleobot/pbot-static/blob/f9a851600a4d28070615d5a8087e44ccfad14fb1/How%20To/Specimen.md)&nbsp;&nbsp;&nbsp;&nbsp; 
+[Specimen](https://github.com/paleobot/pbot-static/blob/f9a851600a4d28070615d5a8087e44ccfad14fb1/How%20To/Specimen.md)&nbsp;&nbsp;&nbsp;&nbsp;
+[Image](https://github.com/paleobot/pbot-static/blob/265772451e070a83aad2b79d7dc1af1abb8e3d45/How%20To/Image.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Description](https://github.com/paleobot/pbot-static/blob/69e465b76d9ec7f46f565d3807d54e7d62b6424a/How%20To/Description.md)&nbsp;&nbsp;&nbsp;&nbsp; 
 [Operational Taxonomic Unit](https://github.com/paleobot/pbot-static/blob/1f54e38498ec331b004c5a6ed308625c8220dcf0/How%20To/OTU.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Schema](https://github.com/paleobot/pbot-static/blob/102bf934388afe2140b6e29f83d9dbc8e8f3484f/How%20To/Schema.md)&nbsp;&nbsp;&nbsp;&nbsp;
