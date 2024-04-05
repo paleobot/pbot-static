@@ -1,4 +1,4 @@
-# Schema
+# Schema Node
 ## Instructions for data entry
 The primary function of PBot Schemas is to support the development and use of community-sourced morphotype descriptions of plant parts (e.g., leaves) and notable features (e.g., cuticles). Each PBot Schema contains a curated collection of Characters (questions—e.g., What is the shape of a leaf?) and States (answers—e.g., ovate) for a specific purpose (e.g., leaf descriptions). Once a Schema is created, it can be used to describe Specimens and Taxa (OTUs) so that Specimens and Taxa (OTUs) can be compared and synonymized.
 
