@@ -3,6 +3,6 @@ Citation: Currano, E., C. Cleveland, D. Contreras, R. Koll, D. Meredith, S. Pete
 
 This work supported through the National Science Foundation Award ICER 2026961.
 
-<img src="nsflogo.jpeg" height="100">&nbsp;&nbsp;&nbsp;<img src="EarthCube-Blue-Long-Tagline.png" height="100">
+<img src="/pbot-static/About/HowToCite/nsflogo.jpeg" height="100">&nbsp;&nbsp;&nbsp;<img src="/pbot-static/About/HowToCite/EarthCube-Blue-Long-Tagline.png" height="100">
 
 Following the Paleobiology Database Guidelines, we recommend that you also cite or acknowledge those who contributed and entered the bulk of the data that you are using in analyses. Create a secondary data bibliography for work that uses large data sets, which can be included as a supplementary material file in manuscript submissions. This helps ensure that the hard work of collecting and describing fossil plants gets acknowledged.
