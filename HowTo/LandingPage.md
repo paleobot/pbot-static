@@ -1,6 +1,6 @@
 # PBot Data Entry Workflow
 The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario. Download the full PBot "How to Guide" here, or access individual Data Entry Cheat Sheets for each data element:<br>
-[Register](https://github.com/paleobot/pbot-static/blob/52fb9c53d17c0eca82178b6c1fc29529a56d9ed6/HowTo/Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
+[Register](Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Person](https://github.com/paleobot/pbot-static/blob/68ce6c53cb72df3c9b00abd4e0d6807ac73e778f/HowTo/Person.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Group](https://github.com/paleobot/pbot-static/blob/a331e9e6541ac50bf1a13d0e4d280917e5403b6e/HowTo/Group.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Reference](https://github.com/paleobot/pbot-static/blob/40f0e06a93170c609a31ab7f8936bd988cba7df8/HowTo/Reference.md)&nbsp;&nbsp;&nbsp;&nbsp;
