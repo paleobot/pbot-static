@@ -21,4 +21,4 @@ Recommended process to check whether a person has already been entered in PBot:
 
 **Email** – Use standard email address formatting including the @ symbol and organization with domain (e.g., name@organization.edu).
 
-**ORCID** – ORCID IDs are entered as a 16-digit number without hyphens. Formatting will be applied after the user moves to another field or clicks submit.
+**ORCID** – ORCID IDs are entered as a 16-digit number including hyphens. Formatting will be applied after the user moves to another field or clicks submit.
