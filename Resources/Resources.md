@@ -1,7 +1,7 @@
 ## Resources
 
 ### Other Biodiversity / Natural History Databases
-<p>[Paleobiology Database (PBDB)](https://paleobiodb.org/navigator/): database for deep time fossil occurrences</p>
+<p> [Paleobiology Database (PBDB)](https://paleobiodb.org/navigator/): database for deep time fossil occurrences</p>
 <p>[iDigBio](https://www.idigbio.org/): portal that provides data and images for millions of biological specimens</p>
 <p>[Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): an international network and data infrastructure aimed at providing open access data about all types of life on Earth</p>
 <p>[Plant Names Database](https://www.plantfossilnames.org/): repository for fossil plant names and diagnoses</p>
