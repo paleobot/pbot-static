@@ -13,7 +13,7 @@
 [Manual of Leaf Architecture](https://personal.ems.psu.edu/~pwilf/Manual_of_Leaf_Architecture_small.pdf)</p>
 
 ### Image Repository Options
-<p>As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images here. Most museums and universities have digital repositories that generate stable links to individual specimen images. If you do not belong to an institution that has its own digital repository, here are some options that are PBot-compatible and free or low cost.</p>
+As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images here. Most museums and universities have digital repositories that generate stable links to individual specimen images. If you do not belong to an institution that has its own digital repository, here are some options that are PBot-compatible and free or low cost.</p>
 [Internet Archive](https://archive.org/)</p>
 [Morphosource](https://www.morphosource.org/)</p>
 [FigShare](https://figshare.com/)</p>
