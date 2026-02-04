@@ -1,6 +1,6 @@
 # Image Node
 ## Instructions for data entry
-PBot uses the Image node to link or store specimen images. **As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images directly to PBot.** See the [Resources](https://pbot.paleobiodb.org/resources) page for some suggested digital repositories.
+PBot uses the Image node to link or store specimen images. **As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images directly to PBot.** See the [Resources](https://pbot.paleobiodb.org/resources) page for some suggested digital repositories. 
 
 ## REQUIRED FIELDS:
 
