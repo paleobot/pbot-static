@@ -1,6 +1,6 @@
 # Image Node
 ## Instructions for data entry
-PBot uses the Image node to link or store specimen images. **As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images directly to PBot.** See the [Resources](https://pbot.paleobiodb.org/resources) page for some suggested digital repositories. 
+PBot uses the Image node to link or store specimen images. **As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images directly to PBot.** See the [Resources](https://pbot.paleobiodb.org/resources) page for some suggested digital repositories.
 
 ## REQUIRED FIELDS:
 
@@ -9,9 +9,9 @@ PBot uses the Image node to link or store specimen images. **As we do not have u
 **Specimen** – Select a Specimen from the dropdown menu to associate an image with a specimen from the selected collection.
 
 **Image: File or Link** –<br>
-To upload an image file to associate with the specimen, click the File button. Select the appropriate file from the dialogue box and click the Upload button. PBot supports .jpg, .png, .svg, .tiff file types. The maximum allowable file size is 15 MB, and we encourage users to keep images as small as possible to conserve server space.
-
 To associate a link to an image with the specimen, click the Link button. Paste the URL into the dialogue box and click the Enter button.
+
+To upload an image file to associate with the specimen, click the File button. Select the appropriate file from the dialogue box and click the Upload button. PBot supports .jpg, .png, .svg, .tiff file types. The maximum allowable file size is 15 MB, and we encourage users to keep images as small as possible to conserve server space.
 
 **Category** – Select an image priority based on the specimen type and what is shown in the image. This selection determines how early the image will be presented in the image carousel on the Specimen and/or OTU page.
 
