@@ -1,6 +1,6 @@
 # Operational Taxonomic Unit (OTU) Node
 ## Instructions for data entry
-PBot uses the concept of an Operational Taxonomic Unit (OTU) for data entry of fossil taxa. The use of OTUs is a practical one, as it provides flexibility for users by allowing the database to accommodate both formally named Linnaean-style fossil taxa (i.e., Latin binomials), informal taxa such as morphotypes, and even working descriptions (see Cleal and Thomas 2010 & 2021 for nice background on “fossil-taxa” and the International Code of Nomenclature). In practice here, an OTU should represent a distinct entity that can be defined and differentiated from other fossil taxa based on a set of descriptive features.  As such, an OTU should be considered as the finest-scale taxonomic rank that is possible given the parts preserved and mode of preservation. Ideally, this is at the level of a fossil-species, however with the understanding that taxonomic resolution can differ among plant fossils so that taxonomic rank for different plant parts of preservation modes are not necessarily equivalent. An OTU should not, therefore, be erected in PBot for a taxonomic rank such as family or order when there are described/named taxa at lower rank. 
+PBot uses the concept of an Operational Taxonomic Unit (OTU) for data entry of fossil taxa. The use of OTUs is a practical one, as it provides flexibility for users by allowing the database to accommodate both formally named Linnaean-style fossil taxa (i.e., Latin binomials), informal taxa such as morphotypes, and even working descriptions (see Cleal and Thomas 2010 & 2021 for nice background on “fossil-taxa” and the International Code of Nomenclature). **In practice here, an OTU should represent a distinct entity that can be defined and differentiated from other fossil taxa based on a set of descriptive features.**  As such, an OTU should be considered as the finest-scale taxonomic rank that is possible given the parts preserved and mode of preservation. Ideally, this is at the level of a fossil-species, however with the understanding that taxonomic resolution can differ among plant fossils so that taxonomic rank for different plant parts and preservation modes are not necessarily equivalent. An OTU should not, therefore, be erected in PBot for a taxonomic rank such as family or order when there are described/named taxa at lower rank, , although such features may be developed in the future. 
 
 ## REQUIRED FIELDS:
 **Name** – Provide a unique name for the Operational Taxonomic Unit. If it is a validly published taxon, the name would be its full binomial (genus + specific epithet).  Informal or unpublished taxa can use any operational name, provided the name is unique. 
@@ -41,11 +41,11 @@ It is critical for the quality index to be consistent across fossil sites and fo
 
 **Genus** – Type the genus, if known. 
 
-**Plant Fossil Names genus link** – If available, add the direct link to the genus record in the Plant Fossil Names Registry (https://www.plantfossilnames.org).
+**Plant Fossil Names genus link** – If available, add the direct link to the genus record in the [Plant Fossil Names Registry](https://www.plantfossilnames.org) or the [International Fossil Plant Names Index](https://ifpni.org/index.htm).
 
 **Specific epithet** – Type the specific epithet, if known. 
 
-**Plant Fossil Names species link** – If available, add the direct link to the species record in the Plant Fossil Names Registry (https://www.plantfossilnames.org).
+**Plant Fossil Names species link** – If available, add the direct link to the species record in the [Plant Fossil Names Registry](https://www.plantfossilnames.org) or the [International Fossil Plant Names Index](https://ifpni.org/index.htm).
 
 **Additional Clades** – Type any additional clades or groups (formal or informal) that you would like to record for the OTU. This field allows the database to capture taxonomic information that is not in PBDB. Separate names with a comma. 
 
