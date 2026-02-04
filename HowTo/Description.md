@@ -1,7 +1,7 @@
 # Description Node
 ## Instructions for data entry
 
-A Description node serves as a container that holds the character states that describe one or more Specimens. The ability to describe specimens in aggregate or as individual specimens provides the user with the flexibility needed for different methodologies and for entering published data for which specific specimen-level information is not known. If specimens are described separately (i.e., they each have separate Description nodes completed) and are determined later to belong to the same OTU, then the descriptions can be “merged” (reversibly) in the OTU’s page. The ability to track specimen-level descriptions can also be a useful tool for assessing variability in character states, preservation, or the later removal/ addition of specimens to an existing OTU record. 
+A Description node serves as a container that holds character states that describe one or more Specimens. The ability to describe specimens in aggregate or as individual specimens provides the user with the flexibility needed for different methodologies and for entering published data for which specific specimen-level information is not known. If specimens are described separately (i.e., they each have separate Description nodes completed) and are determined later to belong to the same OTU, then the descriptions can be “merged” (reversibly) in the OTU’s page. The ability to track specimen-level descriptions can also be a useful tool for assessing variability in character states, preservation, or the later removal/ addition of specimens to an existing OTU record. 
 
 **Workflow for making a description:**
 1.	Generate a Description node. Here you will choose the Specimens being described and the Schema to be used for description. Submit.
@@ -22,7 +22,7 @@ A Description node serves as a container that holds the character states that de
 ## OPTIONAL FIELDS: 
 **Written description** – Paste or type the written description of the Specimen or Specimens. This field allows users to preserve the original terminology used by the describing author, or to provide additional context to the Description that is not possible through the standardized character schema. Because different authors can provide differing descriptions of the same OTU based on specimens from different localities, the written description is recorded for the specific specimens being described, rather than on the OTU itself. Note that the diagnosis text is applied directly to the OTU.
 
-**Notes**  – Enter notes about the Description that the enterer deems necessary to record. For private data undergoing research, this field can be used for research notes or memos to collaborators. Notes can be edited or deleted at any time.
+**Notes** – Enter notes about the Description that the enterer deems necessary to record. For private data undergoing research, this field can be used for research notes or memos to collaborators. Notes can be edited or deleted at any time.
 
 ## CHARACTER INSTANCES:
 The character instances tab will be visible through the “edit Description” function after a Description node has been submitted. Open the accordion(s) to enter Character States from your chosen Schema. There may be a hierarchical set of accordions depending on how the Schema was designed. 
