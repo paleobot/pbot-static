@@ -4,6 +4,7 @@ One of our favorite PBot capabilities is being able to compare OTUs from differe
 <br>
 <img align=left width="800" src="SynonymNodeDiagram.png">
 <br>
+
 The current implementation of the “synonymy” feature creates a link between two or more existing OTUs and allows the enterer to add comments explaining why the OTUs are being linked and add supporting references for those actions. The OTUs that are linked retain their independent OTU pages, and all specimens remain assigned to their original OTU. The proposed synonymy displays on each of the OTU's pages. Any user can add additional tracked comments to the proposed synonymy, or existing comments, to facilitate dialog. 
 
 What it DOES NOT do: Proposing a synonymy does not merge the data from the linked OTUs. No data is lost or irreversibly migrated by a synonymy event. 
