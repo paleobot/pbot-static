@@ -14,4 +14,4 @@ The major data elements (the color coded boxes) are entered in PBot in the order
 [State](State.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Synonym](Synonym.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Comment](Comment.md)<br>
-<img align=left width="800" src="/pbot-static/HowTo/PBotWorkflow.png">
+<img align=left width="800" src="PBotWorkflow.png">
