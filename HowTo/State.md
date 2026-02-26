@@ -1,20 +1,19 @@
 # State Node
 ## Instructions for data entry
-PBot schemas are hierarchical structures with lower-ranks being dependent on higher-ranks. Therefore, each rank must be added to a schema in order from the highest position in the hierarchy to the lowest position in the hierarchy. 
-* For simplicity, “state” and “states” will be used as generalized terms to refer to any rank of state or states in the hierarchy. 
-* “State” ranks available in PBot include state, substate, subsubstate, subsubsubstate, and subsubsubsubstate.
-* A lower-ranked “state” such as subsubstate is directly dependent on a higher-ranked “state” such as substate. When dependencies exist, the higher-ranked “state” is known as the parent “state.” 
+PBot schemas are hierarchical structures with lower-ranks being dependent on higher-ranks. Therefore, each rank must be added to a schema in order from the highest position in the hierarchy to the lowest position in the hierarchy. As with Characters, PBot allows a hierarchical parent-child relationship for States. The difference, however, is that each lower rank of a state is an increasingly precise answer to the question – it is not simply an organizational tool.
+* There are up to five state ranks available in PBot, thus allowing for a state, substate, subsubstate, subsubsubstate, and subsubsubsubstate.
+* A lower-ranked state such as subsubstate is directly dependent on a higher-ranked State such as substate. When dependencies exist, the higher-ranked state is known as the parent state. 
 
 ## REQUIRED FIELDS: 
-**Schema** – Select a Schema from the dropdown menu to add an associated “state.” 
+**Schema** – Select a Schema from the dropdown menu to add an associated State. 
 
-**Character** –  Select a Character from the dropdown menu to add an associated “state.”
+**Character** – Select the Character from the dropdown menu to which the State being added belongs.
 
-**Parent “state”** – Select the higher-ranked “state” the new “state” being added is dependent on.  Skip this step if you are entering a state. States are dependent on the characters (selected above). 
+**Parent state** – If the new state is dependent on another state (i.e., it is a substate), then select the higher-ranked state that the new state being added is dependent on.  Skip this step if you are entering a state that is not dependent on another state.
 
-**Quantitative** – Check this box if the “state” being entered is quantitative. If the “state” is categorical, leave this box unchecked.
+**Quantitative** – Check this box if the state being entered is quantitative. If the state is categorical, leave this box unchecked.
 
-**Name** – Enter “state” name using lower case (e.g., marginal). Do not include terms like “unknown” or “indeterminate” as “states”. These lead to erroneous synonymies.
+**Name** – Enter state name using lower case (e.g., marginal). Do not include terms like “unknown” or “indeterminate” as states. These can lead to erroneous similarities in search or comparison algorithms.
 
 ## OPTIONAL FIELDS:
 **Definition** – Enter a brief definition using sentence case. Include citation(s) if appropriate. 
