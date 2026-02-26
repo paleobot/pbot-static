@@ -1,3 +1,5 @@
+# Synonym Node
+## Instructions for data entry
 One of our favorite PBot capabilities is being able to compare OTUs from different sites, time periods, and research groups. And in doing so, it is possible to recognize when different names are being used to refer to the same taxon and to propose synonymies between OTUs. We use the term Synonymy in a slightly less formal sense than the strict taxonomic definition, but the essence is the same- to denote a relationship between OTUs that were given different names but are thought to represent the same taxon. The Synonymy feature is a work in progress and will undergo significant upgrades in our next funding cycle.
 
 The current implementation of the “synonymy” feature creates a link between two or more existing OTUs and allows the enterer to add comments explaining why the OTUs are being linked and add supporting references for those actions. The OTUs that are linked retain their independent OTU pages, and all specimens remain assigned to their original OTU. The proposed synonymy displays on each of the OTU's pages. Any user can add additional tracked comments to the proposed synonymy, or existing comments, to facilitate dialog. 
@@ -13,11 +15,11 @@ In the current PBot functionality, information about Synonyms can be viewed at t
 *	For whole-plant concepts that consist of multiple organ-specific named taxa, we recommend creating/maintaining separate OTUs for each formal taxonomic name (or organ) and synonymizing them. This allows other single-organ occurrences to still be assigned to the appropriate organ-specific OTU.
 *	Currently in PBot, we recommend that OTUs named or identified using open nomenclature, such as “cf.”, “aff.”, or “sp.”, simply be entered as a unique OUT. It is up to the user’s discretion as to whether it is appropriate to create a proposed synonymy between such OTUs and established taxa.
 
-REQUIRED FIELDS: 
-Explanation – A concise text explanation for the proposed synonymy.
+## REQUIRED FIELDS: 
+**Explanation** – A concise text explanation for the proposed synonymy.
 
-OTUs – Select two OTUs that are proposed to be synonymous. Both OTUs must already exist in PBot. Currently, it is only possible to link two OTUs at a time, and so if a Synonym is proposed that links more than two OTUs, it is necessary to create pairwise links between all OTUs.
+**OTUs** – Select two OTUs that are proposed to be synonymous. Both OTUs must already exist in PBot. Currently, it is only possible to link two OTUs at a time, and so if a Synonym is proposed that links more than two OTUs, it is necessary to create pairwise links between all OTUs.
 
-Reference – Select one or more References that state that the two OTUs represent a single entity and should be synonymized. References must already exist in PBot and can include unpublished references (temporary placeholders for personal workbenches and unpublished opinions). Multiple References can be associated with a Collection by clicking “ADD REFERENCE”. Enter the order number for the Reference to indicate its priority in the reference list, with the most relevant publication as order 1.
+**Reference** – Select one or more References that state that the two OTUs represent a single entity and should be synonymized. References must already exist in PBot and can include unpublished references (temporary placeholders for personal workbenches and unpublished opinions). Multiple References can be associated with a Collection by clicking “ADD REFERENCE”. Enter the order number for the Reference to indicate its priority in the reference list, with the most relevant publication as order 1.
 
-Public or Group – The default is for a Synonym to be Public, as published data and taxonomic opinions should always be part of the “Public” access group. If you would like to restrict access to an unpublished Synonym, uncheck “Public” and select which one or more of your private groups can access this Synonym. Once a record has been made public, it cannot be returned to a private group.
+**Public or Group** – The default is for a Synonym to be Public, as published data and taxonomic opinions should always be part of the “Public” access group. If you would like to restrict access to an unpublished Synonym, uncheck “Public” and select which one or more of your private groups can access this Synonym. Once a record has been made public, it cannot be returned to a private group.
