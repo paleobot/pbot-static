@@ -2,7 +2,7 @@
 ## Instructions for data entry
 The primary function of PBot Schemas is to support the development and use of community-sourced descriptions of plant parts (e.g., leaves) and notable features (e.g., cuticles). Each Schema in PBot contains a curated collection of Characters and States, whether qualitative or quantitative, that are intended for a specific purpose (for example, to describe a leaf, or to record insect damage on specimens). We can think of the Characters as questions (e.g., What is the shape of a leaf?) and their States as the answers (e.g., ovate, elliptic, or obovate). Note that States may have substates to record finer scale differentiation of a State when needed or applicable (e.g., in the Manual of Leaf Architecture, the character “epimedial tertiary fabric” can have the state “percurrent” which has the substates “opposite, alternate, or mixed”). Once a Schema has been created, it can be used to describe Specimens, and hence the Taxon (OTU) that a specimen(s) belongs to, so that Specimens and Taxa (OTUs) can be compared. The below diagram illustrates the node-relationship architecture of schemas.
 
-The information provided here is limited and additional training is strongly recommended.
+The information provided here is limited; please refer to additional guidance documents for creating and organizing schemas.
 
 ## REQUIRED FIELDS: 
 **Title** – For published schemas, enter the published title. For unpublished schemas, enter a unique and descriptive title related to the purpose of the schema. 
