@@ -1,5 +1,8 @@
 ## Resources
 
+### PBot Extra Help
+**link to how to enter published data file**
+
 ### Other Biodiversity / Natural History Databases
 [Paleobiology Database (PBDB)](https://paleobiodb.org/navigator/): database for deep time fossil occurrences</p>
 [iDigBio](https://www.idigbio.org/): portal that provides data and images for millions of biological specimens</p>
