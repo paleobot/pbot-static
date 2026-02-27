@@ -1,6 +1,5 @@
 # How to Use PBot
-
-The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario. Download the full PBot "How to Guide" here, or access individual Data Entry Cheat Sheets for each data element:<br>
+Download the full PBot "How to Guide" here, or access individual Data Entry Cheat Sheets for each data element:<br>
 [Register](Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Person](Person.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Group](Group.md)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,4 +16,5 @@ The major data elements (the color coded boxes) are entered in PBot in the order
 [Comment](Comment.md)<br>
 
 # PBot Data Entry Workflow
+The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario.<br> 
 <img align=left width="800" src="PBotWorkflow.png">
