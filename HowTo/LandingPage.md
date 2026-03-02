@@ -15,7 +15,7 @@ Download the full PBot "How to Guide" here, or access individual Data Entry Chea
 [Synonym](Synonym.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Comment](Comment.md)<br>
 
-Here is a [guidance document](PublishedData.md) for entering published data and PBot Pro Tips **Ellen, link these pages here**
+Here is a [guidance document](PublishedData.md) for entering published data and PBot Pro Tips
 
 # PBot Data Entry Workflow 
 The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario.<br> 
