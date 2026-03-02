@@ -45,3 +45,11 @@ If there is not an appropriate schema available that applies to the organ/preser
 
 ## How can I include images/illustrations of specimens?
 First, check to see if the specimen’s repository has an online image of specimens. If so, enter the stable URL for that image. If not, take a screenshot from the publication and upload that to the PBot Internet Archive collection or upload directly to PBot. And if you should happen to visit the specimen, please take a great photograph and create a new Image node. Note that PBot has a limit on the size of images uploaded. If you encounter this problem, you must downisize the image or host the image on a different site instead and link to it from PBot. Make sure you have permission to upload these images or that any images that you are linking or uploading are public domain! Many online collection databases and journals hold copyright over their specimen photographs.
+
+# PBot Pro Tips
+*	Open separate windows for the Workbench and Explorer to be able to immediately view the changes you make. This is especially helpful for entering Schemas.
+*	If you are midway through a form and realize that you forgot to enter a node that is required for your form (e.g., a Person or Reference), simply open another window and enter that node. It will then populate in the search in the form that you had started.
+*	As more and more data are entered into PBot, the dropdown menus will take longer and longer to load. The Specimen dropdown menus are already quite slow to load! To avoid slow loading or a long scrolling list, use the magnifying glass icon to search for nodes instead of the dropdown selection on entry fields.
+*	Whenever searching PBot (via PBot Explore or by clicking the magnifying glass when entering data in a form), make sure that you are selecting all groups that you want to search. The default is to only search public, and you will not get results from your private groups.
+*	Command-Shift-V or (find what it is on the PC) allows you to paste copied text without formatting. This can be especially useful for removing line breaks from diagnoses in old pdfs.
+*	Pushing return while in a data entry field will submit the form.
