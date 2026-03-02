@@ -37,15 +37,11 @@ First, create a description node for a specific schema, named following the conv
 
 Repeat this process for parts of the published description that are described by other schemas.
 
-## What if there is no appropriate schema in PBot to describe my fossils? 
-If there is not an appropriate schema available that applies to the organ/preservation that you are describing, then you may do one of the following. (1) select the “General text description only schema” and enter the description in the “Written description” field. No characters or states exist in this schema. (2) Create a custom schema for describing your fossils. Note that your schema will need to be made “public” in order for users to see your description. Anyone may use a public schema, and in this way PBot may be able to facilitate building schemas for description of different aspects of fossil plants. 
-
-Diagnoses vs. Descriptions: 
+## Diagnoses vs. Descriptions
 According to the International Code of Nomenclature for Algae, Fungi, and Plants, “A diagnosis of a taxon is a statement of that which in the opinion of its author distinguishes the taxon from other taxa.” A description is defined as “a published statement of a feature or features of an individual taxon… a validating description need not be diagnostic.” Ideally, publications will have separate sections labeled “diagnosis” and “description.” If this is the case, then the publication’s diagnosis section should be copied verbatim into the diagnosis field in the OTU entry form, and the relevant text from the publication’s description section should be copied verbatim into the “written description” optional field in the Description entry form (see below). If the publication only has a description section or only has a diagnosis section, then the text there should be copied verbatim into both the diagnosis field in the OTU entry form and the “written description” optional field in the Description entry form.
 
-How can I include images/illustrations of specimens?
+## What if there is no appropriate schema in PBot to describe my fossils? 
+If there is not an appropriate schema available that applies to the organ/preservation that you are describing, then you may do one of the following. (1) select the “General text description only schema” and enter the description in the “Written description” field. No characters or states exist in this schema. (2) Create a custom schema for describing your fossils. Note that your schema will need to be made “public” in order for users to see your description. Anyone may use a public schema, and in this way PBot may be able to facilitate building schemas for description of different aspects of fossil plants.
+
+## How can I include images/illustrations of specimens?
 First, check to see if the specimen’s repository has an online image of specimens. If so, enter the stable URL for that image. If not, take a screenshot from the publication and upload that to the PBot Internet Archive collection or upload directly to PBot. And if you should happen to visit the specimen, please take a great photograph and create a new Image node. Note that PBot has a limit on the size of images uploaded. If you encounter this problem, you must downisize the image or host the image on a different site instead and link to it from PBot. Make sure you have permission to upload these images or that any images that you are linking or uploading are public domain! Many online collection databases and journals hold copyright over their specimen photographs.
-
-
- <img width="468" height="642" alt="image" src="https://github.com/user-attachments/assets/322c09a3-0f6c-49ae-82da-bbd4f89d00a0" />
-
