@@ -1,8 +1,11 @@
 # Synonym Node
 ## Instructions for data entry
 One of our favorite PBot capabilities is being able to compare OTUs from different sites, time periods, and research groups. And in doing so, it is possible to recognize when different names are being used to refer to the same taxon and to propose **synonymies** between OTUs. We use the term **Synonymy** in a slightly less formal sense than the strict taxonomic definition, but the essence is the same- to denote a relationship between OTUs that were given different names but are thought to represent the same taxon. The Synonymy feature is a work in progress and will undergo significant upgrades in our next funding cycle.<br>
-<p align="center">
 <img align=left width="800" src="SynonymNodeDiagram.png" />
+</p>
+</p>
+</p>
+</p>
 </p>
  
 The current implementation of the “synonymy” feature creates a link between two or more existing OTUs and allows the enterer to add comments explaining why the OTUs are being linked and add supporting references for those actions. The OTUs that are linked retain their independent OTU pages, and all specimens remain assigned to their original OTU. The proposed synonymy displays on each of the OTU's pages. Any user can add additional tracked comments to the proposed synonymy, or existing comments, to facilitate dialog. 
