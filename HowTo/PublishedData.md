@@ -3,9 +3,9 @@ You who are about to enter published data, we salute you! Thank you for making t
 
 ## At least one specimen is required to create an OTU. How do I choose the best exemplar (preferably a type) specimen(s) to enter?
 To some extent, the answer to this question depends on what information is available for each specimen listed as type material and/or figured in a publication. However, we recognize that the information needed to create a Specimen node (and the accompanying Collection node) may be difficult to impossible to find in papers published a long time ago. 
-*Ideally, you should enter the primary exemplar specimen used in the published description. The order of preference is holotype or lectotype or neotype > syntype > paratype > hypotype. You should choose a figured specimen.
-*If there are other figured specimens that you would like to feature in the images of the OTU, you must enter those specimens in addition to the primary exemplar. This will allow you to add those images later.
-*If the OTU has already been entered in the Plant Fossil Names Registry (PFNR) or the International Fossil Plant Names Index (IFPNI), then much of the information you need may be easily found there. If not, consider entering formally named taxa there, as well as in PBot!
+* Ideally, you should enter the primary exemplar specimen used in the published description. The order of preference is holotype or lectotype or neotype > syntype > paratype > hypotype. You should choose a figured specimen.
+* If there are other figured specimens that you would like to feature in the images of the OTU, you must enter those specimens in addition to the primary exemplar. This will allow you to add those images later.
+* If the OTU has already been entered in the Plant Fossil Names Registry (PFNR) or the International Fossil Plant Names Index (IFPNI), then much of the information you need may be easily found there. If not, consider entering formally named taxa there, as well as in PBot!
 *Remember, you need to find and enter the locality data (i.e. Collection node) for the specimen before you can actually enter the specimen.
 
 ## What if there is poor locality information? (i.e., it’s difficult to create the Collection node)
