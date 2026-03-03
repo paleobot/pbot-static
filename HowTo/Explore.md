@@ -1,3 +1,4 @@
+# Using PBot Explore
 From the PBot home page, select the “Explore Fossil Plants” button to search PBot data. First, select whether you would like to search for Taxa (OTUs), Collections, Specimens, References, Schemas, or Persons by selecting the bubbles on the left side of the screen. You will then see the various search parameters for each node type. Click the gray submit button to view search results. 
 
 PBot searches utilize the “And” Boulean Operator. In other words, if you enter more than one search parameter, PBot will only return documents that contain all the parameters you entered.
