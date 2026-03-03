@@ -20,5 +20,7 @@ Download the full PBot "How to Guide" here, or access individual Data Entry Chea
 Here is a [guidance document](PublishedData.md) for entering published data and PBot Pro Tips
 
 # PBot Data Entry Workflow 
-The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario.<br> 
+The major data elements (the color coded boxes) are entered in PBot in the order outlined below. In many cases, you may start at different points in the workflow, or only enter select data elements as needed, as long as any required supporting required data (e.g., references) have been entered first. Follow steps A through C, with D (schema building) being a special case scenario.
+
+To begin data entry, first enter the PBot Workshop (login required). Next, use the menu on the left side of the screen to select a node type. A data entry form will now be visible. At the top of the data entry form, you can see buttons to create (plus sign), edit (pencil icon), or delete (minus sign) a node.<br> 
 <img align=left width="800" src="PBotWorkflow.png">
