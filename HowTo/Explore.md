@@ -1,0 +1,9 @@
+From the PBot home page, select the “Explore Fossil Plants” button to search PBot data. First, select whether you would like to search for Taxa (OTUs), Collections, Specimens, References, Schemas, or Persons by selecting the bubbles on the left side of the screen. You will then see the various search parameters for each node type. Click the gray submit button to view search results. 
+
+PBot searches utilize the “And” Boulean Operator. In other words, if you enter more than one search parameter, PBot will only return documents that contain all the parameters you entered.
+
+Whenever searching PBot (via PBot Explore or by clicking the magnifying glass when entering data in a form), make sure that you are selecting all data access groups that you want to search. The default is to only search public, and you will not get results from your private groups. Search by group is located in the Metadata Accordion at the bottom of each search page.
+
+With one exception, searches are not case sensitive and will return all items that contain the exact character string entered. For example, if you were to search for Collections by Collection name and entered “mu”, your results would include any Collection name with “mu” in it. The only exception is that the OTU taxonomy fields are case sensitive. Data entry and search queries should follow standard capitalization procedures (i.e., all validly published names are capitalized except the specific epithet, whereas informal names are lower case).
+
+The search results page displays a table with basic information on all nodes that matched your search terms. You can click on any green text in the search results table to view the full information about that record, which opens as a new tab in your browser window. You can download your search results as a JSON or pdf file using the links under the table.
