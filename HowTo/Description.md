@@ -25,7 +25,7 @@ A Description node serves as a container that holds character states that descri
 **Notes** – Enter notes about the Description that the enterer deems necessary to record. For private data undergoing research, this field can be used for research notes or memos to collaborators. Notes can be edited or deleted at any time.
 
 ## CHARACTER INSTANCES:
-The character instances tab will be visible through the “edit Description” function after a Description node has been submitted. Open the accordion(s) to enter Character States from your chosen Schema. There may be a hierarchical set of accordions depending on how the Schema was designed. 
+The character instances tab will be visible through the “edit Description” function after a Description node has been submitted. Open the accordion(s) to enter Character States from your chosen Schema. There may be a hierarchical set of accordions depending on how the Schema was designed. If you are scoring character state for a published description, please see the our guide to entering published data for guidance on translating authors’ text descriptions to standardized schemas.
 
 To record the Character States that comprise your description, click the green plus symbol that is under a Character that you want to record. A pop-up box will appear with a drop-down list of the States available for that Character. Once you select a State, press submit. Each submit creates a “Character instance”. 
 
