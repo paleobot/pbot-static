@@ -1,6 +1,4 @@
 # How to Use PBot
-From the PBot homepage, selecting "Explore Fossil Plants" takes you to PBot Explore, our search portal. No login is required, and users can search or browse all publicly accessible data. Click [here](Explore.md) for more information on using PBot Explore. Selecting "Go to Workbench" takes you to the PBot Workbench, where registered users can enter paleobotanical data that is either accessible to all or stored in a private group and accessible only to chosen registered users. Clicking the hamburger (☰) in the upper left of your screen allows you to easily move between Explore and Workbench, as well as to access informational materials. Clicking on the robot icon in the top header will return you to the PBot homepage.
-
 Download the full PBot "How to Guide" here, or access individual Data Entry Cheat Sheets for each data element:<br>
 [Register](Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Person](Person.md)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +15,10 @@ Download the full PBot "How to Guide" here, or access individual Data Entry Chea
 [Synonym](Synonym.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Comment](Comment.md)<br>
 
-Here is a [guidance document](PublishedData.md) for entering published data and PBot Pro Tips
+Here are guidance documents for [searching PBot data](Explore.md) and [entering published data](PublishedData.md) data, as well as PBot Pro Tips.
+
+# The PBot Homepage
+From the PBot homepage, selecting "Explore Fossil Plants" takes you to PBot Explore, our search portal. No login is required, and users can search or browse all publicly accessible data. Selecting "Go to Workbench" takes you to the PBot Workbench, where registered users can enter paleobotanical data that is either accessible to all or stored in a private group and accessible only to chosen registered users. Clicking the hamburger (☰) in the upper left of your screen allows you to easily move between Explore and Workbench, as well as to access informational materials. Clicking on the robot icon in the top header will return you to the PBot homepage.
 
 # A Brief Overview of the PBot Architecture
 PBot utilizes a graph database that consists of nodes and relationships. Each data entry form corresponds to a data object called a **“node”** in the PBot database. Nodes store the data entered into each field on a form as properties of the node. Defined relationships between nodes enable information to flow between nodes. The conceptual diagram below shows the full PBot architecture, with nodes as circles and relationships as arrows.
