@@ -13,7 +13,7 @@ To associate a link to an image with the specimen, click the Link button. Paste 
 
 To upload an image file to associate with the specimen, click the File button. Select the appropriate file from the dialogue box and click the Upload button. PBot supports .jpg, .png, .svg, .tiff file types. The maximum allowable file size is 15 MB, and we encourage users to keep images as small as possible to conserve server space.
 
-**Category** – Select an image priority based on the specimen type and what is shown in the image. This selection determines how early the image will be presented in the image carousel on the Specimen and/or OTU page.
+**Category** – Select an image priority based on the specimen type and what is shown in the image. This selection determines how early the image will be presented in the image carousel on the Specimen and/or OTU page. Images display in the following category order: holotype/exemplar, other type specimen, shows key feature, no priority. Use “shows key feature” for non-type specimens that preserve features that may not be well-exhibited by the selection of type specimens.
 
 **Credit** – Provide image credit suitable for publication that acknowledges the photographer, repository, and sources as well as any image use limitations such as copyright status. 
 
