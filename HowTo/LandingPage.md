@@ -1,4 +1,6 @@
 # How to Use PBot
+From the PBot homepage, selecting "Explore Fossil Plants" takes you to PBot Explore, our search portal. No login is required, and users can search or browse all publicly accessible data. Click here for more information on using PBot Explore. Selecting "Go to Workbench" takes you to the PBot Workbench, where registered users can enter paleobotanical data that is either accessible to all or stored in a private group and accessible only to chosen registered users. Clicking the hamburger in the upper left of your screen allows you to easily move between Explore and Workbench, as well as to access informational materials. Clicking on the robot icon in the top header will return you to the PBot homepage.
+
 Download the full PBot "How to Guide" here, or access individual Data Entry Cheat Sheets for each data element:<br>
 [Register](Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Person](Person.md)&nbsp;&nbsp;&nbsp;&nbsp;
