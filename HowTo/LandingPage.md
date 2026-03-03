@@ -19,6 +19,9 @@ Download the full PBot "How to Guide" here, or access individual Data Entry Chea
 
 Here is a [guidance document](PublishedData.md) for entering published data and PBot Pro Tips
 
+# A Brief Overview of the PBot Architecture
+PBot utilizes a graph database that consists of nodes and relationships. Each data entry form corresponds to a data object called a **“node”** in the PBot database. Nodes store the data entered into each field on a form as properties of the node. Defined relationships between nodes enable information to flow between nodes. The conceptual diagram below shows the full PBot architecture, with nodes as circles and relationships as arrows.
+
 # PBot Data Entry Workflow 
 To begin data entry, first enter the PBot Workbench (login required). Next, use the menu on the left side of the screen to select a node type. A data entry form will now be visible. At the top of the data entry form, you can see buttons to create (plus sign), edit (pencil icon), or delete (minus sign) a node.
 
