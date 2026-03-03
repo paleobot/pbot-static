@@ -51,5 +51,7 @@ First, check to see if the specimen’s repository has an online image of specim
 *	If you are midway through a form and realize that you forgot to enter a node that is required for your form (e.g., a Person or Reference), simply open another window and enter that node. It will then populate in the search in the form that you had started.
 *	As more and more data are entered into PBot, the dropdown menus will take longer and longer to load. The Specimen dropdown menus are already quite slow to load! To avoid slow loading or a long scrolling list, use the magnifying glass icon to search for nodes instead of the dropdown selection on entry fields.
 *	Whenever searching PBot (via PBot Explore or by clicking the magnifying glass when entering data in a form), make sure that you are selecting all groups that you want to search. The default is to only search public, and you will not get results from your private groups.
-*	Command-Shift-V or (find what it is on the PC) allows you to paste copied text without formatting. This can be especially useful for removing line breaks from diagnoses in old pdfs.
+*	Command-Shift-V or Control-Shift-V allows you to paste copied text without formatting. This can be especially useful for removing line breaks from diagnoses in old pdfs.
 *	Pushing return while in a data entry field will submit the form.
+* Groups and References can be useful for project management purposes. You can search Collections, Specimens, and OTUs by Group or by Reference, which can be very useful for keeping track of progress.
+* PBot Explore's default is to only search Public records. Remember to open the Metadata accordion and add private Groups to search both public and private data.
