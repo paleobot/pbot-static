@@ -1,7 +1,7 @@
 ## Resources
 
 ### PBot Extra Help
-[How to enter published data](PublishedData.md)
+[How to enter published data](PublishedData.md)</p>
 [PBot Pro Tips](ProTips.md)
 
 ### Other Biodiversity / Natural History Databases
