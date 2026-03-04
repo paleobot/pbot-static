@@ -1,3 +1,4 @@
+# PBot Node Types, Explanations, and Properties
 **Person**: Identifying information about individuals. Sample uses: author of a reference, identifier of a specimen, describer of a specimen.</p>
 **Reference**: Basic information for published references or, prior to publication, informal references. PBot is not a substitute for publishing in the peer-reviewed literature.</p>
 **Schema**: Collections of **Characters** (questions- e.g., what is the shape of a leaf?) and **States** (answers- e.g., ovate) used to describe specific kinds of plant fossils. Example: *The Manual of Leaf Architecture*.
