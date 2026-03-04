@@ -1,7 +1,8 @@
 ## Resources
 
 ### PBot Extra Help
-**link to how to enter published data file**
+[How to enter published data](PublishedData.md)
+[PBot Pro Tips](ProTips.md)
 
 ### Other Biodiversity / Natural History Databases
 [Paleobiology Database (PBDB)](https://paleobiodb.org/navigator/): database for deep time fossil occurrences</p>
