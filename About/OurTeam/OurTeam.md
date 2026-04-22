@@ -20,7 +20,7 @@
 <img align="middle" src="/pbot-static/About/OurTeam/Uhen.jpg" width="150">&nbsp;<span>[Mark D. Uhen](http://uhenlab.weebly.com/), George Mason University, Paleobiology Database Integration, co-PI </span>
 
 ### PBot Alumni
-Matt Butrim, University of Wyoming <br>
+Matt Butrim, Burke Museum of Natural History and Culture <br>
 Rebecca Koll, University of Exeter
 
 ### Governance Structure 
