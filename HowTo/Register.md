@@ -4,7 +4,7 @@ While anyone can view public data via PBot Explore, users must register to acces
 
 After registration, PBot Users are automatically added as a Person node based on their registration information. You do not need to enter yourself as a person. If someone else has already created a Person node for you, then any information you add during registration will be added to that Person node.
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 **Given name** – Provide the given name of the individual being entered. Providing the full given name is preferred, but in cases when only an initial is available, do not provide a period after the initial (e.g., M).
 
 **Surname** – Provide the surname of the individual being entered. When entering suffixes, include a comma before the suffix and period after the suffix (e.g., Surname, Jr.)
@@ -17,7 +17,7 @@ After registration, PBot Users are automatically added as a Person node based on
 
 **Confirm password** – Re-enter your password to confirm accuracy.
 
-## STRONGLY RECOMMENDED FIELDS:
+## STRONGLY RECOMMENDED FIELDS
 
 **Middle name/initial** – Whenever possible, enter the individual’s complete middle name. If entering just an initial, do not include a period (e.g., M).
 
