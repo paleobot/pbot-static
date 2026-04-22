@@ -2,7 +2,7 @@
 
 ### PBot Extra Help
 [How to enter published data](/HowTo/PublishedData.md)</p>
-[PBot Pro Tips](ProTips.md)
+[PBot Pro Tips](/HowTo/ProTips.md)
 
 ### Other Biodiversity / Natural History Databases
 [Paleobiology Database (PBDB)](https://paleobiodb.org/navigator/): database for deep time fossil occurrences</p>
