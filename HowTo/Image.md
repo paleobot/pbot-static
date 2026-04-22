@@ -2,7 +2,7 @@
 ## Instructions for data entry
 PBot uses the Image node to link or store specimen images. **As we do not have unlimited storage space, we strongly encourage you to include stable links to specimen images rather than uploading images directly to PBot.** See the [Resources](https://pbot.paleobiodb.org/resources) page for some suggested digital repositories.
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 
 **Collection** – Choose the Collection to which the imaged specimen belongs. You may either search Collections using the magnifying glass or select a Collection from the dropdown menu. 
 
