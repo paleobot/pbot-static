@@ -9,13 +9,13 @@ Recommended process to check whether a person has already been entered in PBot:
 * Go to PBot Explore, choose a Person search, and enter the Surname. Determine which members on your list still need to be entered.
 * Enter new persons using the Add (+) function in PBot Workbench.
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 
 **Given** – Provide the given name of the individual being entered. Providing the full given name is preferred, but in cases when only an initial is available, do not provide a period after the initial (e.g., M).
 
 **Surname** – Provide the surname of the individual being entered. When entering suffixes, include a comma before the suffix and period after the suffix (e.g., Surname, Jr.)
 
-## OPTIONAL FIELDS:
+## OPTIONAL FIELDS
 
 **Middle name/initial** – Whenever possible, enter the individual’s complete middle name. If entering just an initial, do not include a period (e.g., M).
 
