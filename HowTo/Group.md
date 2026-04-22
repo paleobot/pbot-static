@@ -4,7 +4,7 @@ PBot uses groups to restrict access to private, unpublished data and to facilita
 
 Because only registered users can be added to a group, be sure all the individuals you would like to add to your group are registered as PBot users. However, members can be added and edited at any time, so you can create a group with only yourself as a member to get started, or for solo work.
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 **Name** – A unique identifier for the group. Group names should be short and specific to the purpose of the group (e.g., Bighorn Basin P-E).
 
 **Purpose** – Provide a brief description of the group’s purpose so that users are clear on what data should and should not be included in this private data repository.
