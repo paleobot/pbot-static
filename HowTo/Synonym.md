@@ -8,7 +8,7 @@ The current implementation of the “synonymy” feature creates a link between 
 
 What it DOES NOT do: Proposing a synonymy does not merge the data from the linked OTUs. No data is lost or irreversibly migrated by a synonymy event. 
 
-## WHEN TO SYNONYMIZE:
+## WHEN TO SYNONYMIZE
 In the current PBot functionality, information about Synonyms can be viewed at the bottom of the OTU page, under the Synonym accordion. However, the synonym relationship is not incorporated into search functions yet (this is one of our top priorities for PBot v2.0). For example, if you search for all OTUs from a time interval, you will see both OTUs listed separately. Given the current constraints of PBot, we provide these recommendations for when to create distinct OTUs and a synonym relationship between them, versus assigning specimens to an existing OTU:
 *	If you are very confident that a specimen you are entering belongs to an OTU that already exists in PBot, we strongly encourage you to assign that specimen to the existing OTU, rather than create a new OTU and a Synonym. To do this in your workbench, navigate to OTU entry form, select the edit icon, and then search and select the existing OTU.  Add your new specimen(s) as an “Identified specimen” and press submit. Now your new specimens will appear on the OTU page as additional occurrences of the taxon.
 *	If you are morphotyping a flora and have created two or more distinct OTUs that you later decide to lump together prior to publishing your work (and making your OTUs “public” in PBot), we strongly encourage you to reassign specimens such that only a single OTU exists. To do this, edit the OTU page for the OTU name that you plan to retain, adding all specimens as an “Identified specimen.” Then, delete the other OTU nodes.
@@ -17,7 +17,7 @@ In the current PBot functionality, information about Synonyms can be viewed at t
 *	For whole-plant concepts that consist of multiple organ-specific named taxa, we recommend creating/maintaining separate OTUs for each formal taxonomic name (or organ) and synonymizing them. This allows other single-organ occurrences to still be assigned to the appropriate organ-specific OTU.
 *	Currently in PBot, we recommend that OTUs named or identified using open nomenclature, such as “cf.”, “aff.”, or “sp.”, simply be entered as a unique OUT. It is up to the user’s discretion as to whether it is appropriate to create a proposed synonymy between such OTUs and established taxa.
 
-## REQUIRED FIELDS: 
+## REQUIRED FIELDS 
 **Explanation** – A concise text explanation for the proposed synonymy.
 
 **OTUs** – Select two OTUs that are proposed to be synonymous. Both OTUs must already exist in PBot. Currently, it is only possible to link two OTUs at a time, and so if a Synonym is proposed that links more than two OTUs, it is necessary to create pairwise links between all OTUs.
