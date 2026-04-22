@@ -4,7 +4,7 @@ Specimen nodes track data about individual specimens and can be linked to the Op
 
 PBot does check internally for duplicates when you submit a new Specimen Node, but the Specimen Name must exactly match the current PBot entry, including capitalization. The best practices to prevent duplicates are to follow best practices for Specimen Names (see below) and to check existing Specimens before entering new data.
 
-## REQUIRED FIELDS: 
+## REQUIRED FIELDS 
 **Name** – Provide a unique name for the Specimen. In most cases, this should be the specimen’s catalog number at its permanent repository. ***Include the repository code at the beginning of the catalog number if it is not already included in the specimen number*** (e.g., USNM PAL777113). Do not forget to include the repository code, as different institutions may use the same numbering system and Specimen numbers must be unique in PBot. Institutional/repository codes registered with the Global Registry of Scientific Collections (GRSciColl) can be found at www.gbif.org/grscicoll/institution/search. If a catalog number has not been assigned, a field number or other tracking may be used until the specimen is cataloged. Names can be edited at a later time; it is recommended to record any prior or temporary numbers in the Notes field. 
 
 **Collection** – Choose the Collection to which the specimen belongs. If the Collection for the specimen does not exist yet in PBot, open a new browser and enter a new Collection; after submitting the new collection, use the search tool to find the collection and select it. See Collection instructions for more information. 
