@@ -2,7 +2,7 @@
 ## Instructions for data entry
 PBot uses the concept of an Operational Taxonomic Unit (OTU) for data entry of fossil taxa. The use of OTUs is a practical one, as it provides flexibility for users by allowing the database to accommodate both formally named Linnaean-style fossil taxa (i.e., Latin binomials), informal taxa such as morphotypes, and even working descriptions (see Cleal and Thomas 2010 & 2021 for nice background on “fossil-taxa” and the International Code of Nomenclature). **In practice here, an OTU should represent a distinct entity that can be defined and differentiated from other fossil taxa based on a set of descriptive features.**  As such, an OTU should be considered as the finest-scale taxonomic rank that is possible given the parts preserved and mode of preservation. Ideally, this is at the level of a fossil-species, however with the understanding that taxonomic resolution can differ among plant fossils so that taxonomic rank for different plant parts and preservation modes are not necessarily equivalent. An OTU should not, therefore, be erected in PBot for a taxonomic rank such as family or order when there are described/named taxa at lower rank, , although such features may be developed in the future. 
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 **Name** – Provide a unique and informative name for the Operational Taxonomic Unit. 
 * For OTUs that are informally named and include a systematic affinity to a formal name (e.g., Lauraceae sp., *Aralia* sp., cf. *Rhus*), the OTU name should be systematic affinity + morphotype code (if applicable) + locality/flora (e.g., Lauraceae sp. WW036 Bighorn Basin, cf. *Rhus* Bighorn Basin).
 * For OTUs that are informally named with no systematic affinity (e.g., Morphotype 27), the OTU name should be the locality/flora + morphotype code or name (e.g., Cerrejón Morphotype CJ38, Mush Long & Loopy, Bighorn Basin Dicot sp. FU735 Hairy Leaf).
@@ -39,7 +39,7 @@ It is critical for the quality index to be consistent across fossil sites and fo
 
 **Public or Group** – For public data, check the box. For private data, uncheck the box, then from the Groups dropdown select the private data access groups to which this data record belongs. Note that a public OTU must have a public holotype/exemplar specimen. Once a record has been made public, it cannot be returned to a private group.
 
-## OPTIONAL FIELDS:
+## OPTIONAL FIELDS
 **Holotype specimen** – Choose the Holotype or “Holo-Exemplar” specimen from the list of type specimens. 
 
 **Family** – Type the family to which the OTU belongs, if known. This is particularly important if the family was not available in the PBDB list and will help with updating the PBDB later. 
