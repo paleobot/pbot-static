@@ -11,7 +11,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 **Prior to creating or editing a Reference (excepting unpublished references), you must determine whether the Reference already exists in the Paleobiology Database (PBDB).** To do this, enter data for one or more fields in the PBot Reference form (recommendation: either title, journal and year, or one author), and then click the magnifying glass next to PBDB ID. A new window will appear with PBDB search results. If the Reference already exists in PBDB, you can import the data into PBot by first clicking “Populate all fields”, and then clicking on the correct Reference. Note that because author information is stored in PBot as Person nodes, you still need to manually enter authors (see instructions below under the “Author” required field). If the Reference does not appear in the list, click "Cancel" and proceed to enter the remaining fields to complete the new record.
 
 ## JOURNAL ARTICLE
-### REQUIRED FIELDS: 
+### REQUIRED FIELDS 
 **Title** – Enter the entire article title and do not use abbreviations. If the title is not in English, enter the original title first and then enter an English-language translation in brackets.
 
 **Year** – The year (include all four digits) in which the article was published.
@@ -24,7 +24,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Volume** – Enter the volume number in which the article was published.
 
-### OPTIONAL FIELDS: 
+### OPTIONAL FIELDS 
 **Number** – Enter the issue number in which the article was published.
 
 **First page number** – Enter the first page number of the article. If the pages are numbered with combinations of numbers and letters (e.g., “A-32”), put everything in and do not strip the letters. Do not put a hyphen after the page number.
@@ -36,7 +36,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 **DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## STANDALONE BOOK
-### REQUIRED FIELDS: 
+### REQUIRED FIELDS 
 **Title** – Enter the entire book title and do not use abbreviations. If the title is not in English, enter the original title first and then enter an English-language translation in brackets.
 
 **Year** – The year (include all four digits) in which the book was published.
@@ -53,13 +53,13 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Type** – Choose from the following options: thesis (any degree level), monograph, compendium, or other.
 
-### OPTIONAL FIELDS: 
+### OPTIONAL FIELDS 
 **Notes** – Enter any additional comments you have about the Reference.
 
 **DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## EDITED BOOK OF CONTRIBUTED ARTICLES: *for citing the whole book*
-### REQUIRED FIELDS: 
+### REQUIRED FIELDS 
 **Title** – Enter the entire book title and do not use abbreviations. If the title is not in English, enter the original title first and then enter an English-language translation in brackets.
 
 **Year** – The year (include all four digits) in which the book was published.
@@ -74,13 +74,13 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Last page number** - Enter the last page number of the book, which is also the total number of pages in the book. If the pages are numbered with combinations of numbers and letters (e.g., “A-32”), put everything in and do not strip the letters. Do not put a hyphen before the last page number.
 
-### OPTIONAL FIELDS: 
+### OPTIONAL FIELDS 
 **Notes** – Enter any additional comments you have about the Reference.
 
 **DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
 
 ## CONTRIBUTED ARTICLES IN EDITED BOOK: *for citing an individual article*
-### REQUIRED FIELDS: 
+### REQUIRED FIELDS 
 **Chapter Title** – Enter the entire title of the chapter/article and do not use abbreviations. If the title is not in English, enter the original title first and then enter an English-language translation in brackets.
 
 **Year** – The year (include all four digits) in which the book was published.
@@ -99,7 +99,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 
 **Last page number** - Enter the last page number of the article/chapter. If the pages are numbered with combinations of numbers and letters (e.g., “A-32”), put everything in and do not strip the letters. Do not put a hyphen before the last page number.
 
-### OPTIONAL FIELDS: 
+### OPTIONAL FIELDS 
 **Notes** – Enter any additional comments you have about the Reference.
 
 **DOI** – The digital object identifier of the Reference. Only enter the unique ID number - for example, enter “10.1086/663967”, not “https://doi.org/10.1086/663967”.
@@ -107,7 +107,7 @@ To enter a Reference, first select the **Publication type** to see the required 
 ## UNPUBLISHED
 Ideally, an unpublished reference should be a placeholder for an intended future publication. Reference information can be edited at any time; therefore, once your manuscript is published, you can simply edit the Reference fields to match the final publication type and information (in other words, you will not need to individually edit every record in your publication dataset to change to the published version of the reference). For general entry of private data that does not yet have a designated intended publication, you can generate a Reference titled “[Username]’s Personal Workbench”, which serves as a generalized interim private workspace, or one titled appropriately for a private working Group in which you are collaborating with other users. In some cases, you may be entering data that you intend to be public even though it is not in the published literature (for example, museum specimens that are already available online and not currently being studied); for these cases, you can enter a reference to the institution and/or collections database from which the specimen information was derived.
 
-### REQUIRED FIELDS: 
+### REQUIRED FIELDS 
 **Title** – Keeping in mind that all References are publicly viewable, enter an informative title that matches your comfort-level. Example titles include “SiteName flora project”, “Username’s SiteName research”, “Username’s TaxonName research”, “Username’s Personal Workbench”.
 
 **Year** – Enter the current year (include all four digits) as a timestamp of when the unpublished reference was created.
@@ -116,5 +116,5 @@ Ideally, an unpublished reference should be a placeholder for an intended future
 
 **Description** – A short summary of the unpublished reference. Remember that all Reference nodes are publicly accessible.
 
-### OPTIONAL FIELDS: 
+### OPTIONAL FIELDS 
 **Notes** – Enter any additional comments you have about your unpublished reference, keeping in mind that this will be publicly accessible.
