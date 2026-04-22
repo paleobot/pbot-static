@@ -8,7 +8,7 @@ A Description node serves as a container that holds character states that descri
 2.	Select the Edit Description function and select your Description from the list. 
 3.	Now you should see there is a “Character instances” accordion. The accordion is populated with the characters from the schema you selected. Open the accordion to see the character hierarchy of the schema and to submit character states!
 
-## REQUIRED FIELDS: 
+## REQUIRED FIELDS 
 **Name** – Provide a unique and informative name for the Description. For published OTUs/Specimens, we recommend the format “OTUName/SpecimenNumber + Author(s) + SchemaName + Published Description” (ex: Davidia antiqua Manchester MLA Published Description). For unpublished work or new descriptions of published OTUs/Specimens, we recommend the format “OTUName/SpecimenNumber + SchemaName + by AuthorLastName” (ex: Davidia antiqua MLA by Currano). Other acceptable and informative names include: “UCMP 24678 preliminary cuticle description” or “DE 124 morphotype aggregated MLA”. Note that this informative name for a description will be useful when specimens are later re-described or more completely described by another worker. In such a case, the original description (whether simply a text description or scored schema characters) can be retained and a new description node created for the revised descriptions. Both descriptions can be viewed and the historical information is retained alongside newer interpretations.
 
 **Schema** – Choose the Schema that will be used to make the Description. Only one schema can be used per Description node. If you need to describe a Specimen, or Specimens, using multiple schemas (for example a schema for leaf morphology and a schema for cuticle characters) then you will need to make two Description nodes for the Specimen(s).  A Specimen may have multiple Description nodes.
@@ -19,7 +19,7 @@ A Description node serves as a container that holds character states that descri
 
 **Public or Group** – For public data, leave the box checked. For private data, uncheck the box, then from the Groups dropdown select the private data access groups to which this data record belongs. Note that a public Description must have at least one public Specimen. Once a record has been made public, it cannot be returned to a private group. 
 
-## OPTIONAL FIELDS: 
+## OPTIONAL FIELDS 
 **Written description** – Paste or type the written description of the Specimen or Specimens. This field allows users to preserve the original terminology used by the describing author, or to provide additional context to the Description that is not possible through the standardized character schema. Because different authors can provide differing descriptions of the same OTU based on specimens from different localities, the written description is recorded for the specific specimens being described, rather than on the OTU itself. Note that the diagnosis text is applied directly to the OTU.
 
 **Notes** – Enter notes about the Description that the enterer deems necessary to record. For private data undergoing research, this field can be used for research notes or memos to collaborators. Notes can be edited or deleted at any time.
