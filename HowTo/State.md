@@ -4,7 +4,7 @@ PBot schemas are hierarchical structures with lower-ranks being dependent on hig
 * There are up to five state ranks available in PBot, thus allowing for a state, substate, subsubstate, subsubsubstate, and subsubsubsubstate.
 * A lower-ranked state such as subsubstate is directly dependent on a higher-ranked State such as substate. When dependencies exist, the higher-ranked state is known as the parent state. 
 
-## REQUIRED FIELDS: 
+## REQUIRED FIELDS 
 **Schema** – Select a Schema from the dropdown menu to add an associated State. 
 
 **Character** – Select the Character from the dropdown menu to which the State being added belongs.
@@ -15,7 +15,7 @@ PBot schemas are hierarchical structures with lower-ranks being dependent on hig
 
 **Name** – Enter state name using lower case (e.g., marginal). Do not include terms like “unknown” or “indeterminate” as states. These can lead to erroneous similarities in search or comparison algorithms.
 
-## OPTIONAL FIELDS:
+## OPTIONAL FIELDS
 **Definition** – Enter a brief definition using sentence case. Include citation(s) if appropriate. 
 
 **Order** – This function allows schema developers to control where “state” names appear in lists for users. Enter a number to indicate the position of each “state” for listing purposes. Order is specific to each character and each “state” rank group (see example below). 
