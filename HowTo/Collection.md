@@ -10,7 +10,7 @@ PBot uses the concept of Collections, as implemented and required by the Paleobi
 
 **Prior to creating a new Collection, please determine whether the Collection already exists in the Paleobiology Database.** From the PBot Collections Form, enter the latitude and longitude of the Collection, and then click the magnifying glass next to the PBDB ID field. If the Collection exists in PBDB, first select “Populate all fields,” and then click on the Collection to autopopulate the data into the PBot Collections Form. Enter any additional collection information in the PBot Collection Form and then submit.
 
-## REQUIRED FIELDS:
+## REQUIRED FIELDS
 **Name** – A unique identification that may also aid in recognizing close links among Collections. 80 character limit. For example, if you are entering a series of consecutive beds, you could provide a location name and meter level (e.g., “Saddle Mountain 1.5 meter bed” and “Saddle Mountain 2.0 meter bed”). Keep it short and informative, but do not include the stratigraphic age, location details, or the name of the formation, country, state, etc. We recommend using the location name along with locality number/name, plus any other specifier needed to differentiate from other similar collections. If including a formal locality number, please also include the institution code that generated the locality number to avoid duplicates.
 
 **Collection type** – Characterize the intent or subject area of the part of the original publication from which the Collection was compiled. Be careful because different parts of one paper might have different purposes. When in doubt, use the category that best describes the whole paper.
@@ -100,7 +100,7 @@ surface (in situ): fossils were found embedded in the rock but no extensive quar
 
 **Notes on collection methods** – Provide as much additional information as possible. Examples: only dicot leaves were identified; specimens were collected from a spoil pile; the quarry was discovered by Doe and excavated by Smith and Brown; the USNM museum collection was made in 1940 and the AMNH museum collection in 1941.
 
-## EXTENDED INSTRUCTIONS FOR ENTERING LATITUDE & LONGITUDE:
+## EXTENDED INSTRUCTIONS FOR ENTERING LATITUDE & LONGITUDE
 Decimal degree digits – What digits mean in latitude and longitude decimal degrees using WGS84. The decimal degree explanations below were adapted from StackExchange on 08-15-2023. Please note the phrase “up to” in these explanations refers to variations in decimal degree distances around the globe. The explanations here refer to the maximum distance represented by a decimal degree digit. To correct for variation and obtain high precision in decimal degree distance, see latitude and longitude at the end of this document. 
 * The **tens digit** gives a position up to about 1,000 kilometers. It gives us useful information about what continent or ocean we are on.
 * The **units digit** (one decimal degree) gives a position up to 111 kilometers (60 nautical miles, about 69 miles). It can tell us roughly what large state or country we are in.
