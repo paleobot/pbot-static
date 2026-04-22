@@ -1,7 +1,7 @@
 # Looking to cite PBot in a proposal or paper?
 Citation: Currano, E., C. Cleveland, D. Contreras, R. Koll, D. Meredith, S. Peters, M. Uhen, and A. Zaffos. Introducing PBot, the Integrative Paleobotany Portal. Geological Society of America Annual Meeting. October 10-13, 2021; Portland, Oregon.
 
-This work supported through the National Science Foundation Award ICER 2026961.
+This work is supported through the National Science Foundation Award ICER 2026961.
 
 <img src="/pbot-static/About/HowToCite/nsflogo.jpeg" height="100">&nbsp;&nbsp;&nbsp;<img src="/pbot-static/About/HowToCite/EarthCube-Blue-Long-Tagline.png" height="100">
 
