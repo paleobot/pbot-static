@@ -4,7 +4,7 @@ The primary function of PBot Schemas is to support the development and use of co
 
 The information provided here is limited; please refer to additional guidance documents for creating and organizing schemas.
 
-## REQUIRED FIELDS: 
+## REQUIRED FIELDS 
 **Title** – For published schemas, enter the published title. For unpublished schemas, enter a unique and descriptive title related to the purpose of the schema. 
 
 **Year** – For published schemas, enter the copyright date. For unpublished schemas, enter the year the schema was first entered in PBot.
@@ -17,7 +17,7 @@ The information provided here is limited; please refer to additional guidance do
 
 **Public or Group** – Schemas are set to Public, as published Schemas should always be part of the “Public” access group. To restrict access to unpublished Schemas, uncheck “Public.” Then select Group(s) as appropriate from the dropdown menu. Multiple Groups can be selected at the same time. When selected, Groups are highlighted in gray. Click outside of the dropdown menu to return to data entry. Note, once a record has been made public, it cannot be returned to a private group.
 
-## OPTIONAL FIELDS:
+## OPTIONAL FIELDS
 **Acknowledgements** – Add acknowledgements that apply to the schema as a whole, just as you would in the acknowledgement section of a publication. Specific citations to acknowledge previously published characters or states can be included in character and state definitions.
 
 **Notable features preserved** – Select all notable features from the dropdown menu. Multiple features can be selected at the same time. When selected, features are highlighted in gray. Click outside of the dropdown menu to return to data entry.
