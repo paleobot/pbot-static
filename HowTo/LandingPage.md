@@ -1,5 +1,5 @@
 # How to Use PBot
-Download the full PBot "How to Guide" [here](PBotUserGuide_3-13.pdf), or access individual Data Entry Cheat Sheets for each data element:<br>
+Download the full PBot "How to Guide" [here](PBotUserGuide_4-23.pdf), or access individual Data Entry Cheat Sheets for each data element:<br>
 [Register](Register.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Person](Person.md)&nbsp;&nbsp;&nbsp;&nbsp;
 [Group](Group.md)&nbsp;&nbsp;&nbsp;&nbsp;
