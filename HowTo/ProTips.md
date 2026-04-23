@@ -4,6 +4,6 @@
 *	As more and more data are entered into PBot, the dropdown menus will take longer and longer to load. The Specimen dropdown menus are already quite slow to load! To avoid slow loading or a long scrolling list, use the magnifying glass icon to search for nodes instead of the dropdown selection on entry fields.
 *	Whenever searching PBot (via PBot Explore or by clicking the magnifying glass when entering data in a form), make sure that you are selecting all groups that you want to search. The default is to only search public, and you will not get results from your private groups.
 *	Command-Shift-V or Control-Shift-V allows you to paste copied text without formatting. This can be especially useful for removing line breaks from diagnoses in old pdfs.
-*	Pushing return while in a data entry field will submit the form.
+*	Pushing return while in a data entry field will submit the form. Remember to open the Metadata accordion and add private Groups to search both public and private data.
 * Groups and References can be useful for project management purposes. You can search Collections, Specimens, and OTUs by Group or by Reference, which can be very useful for keeping track of progress.
-* PBot Explore's default is to only search Public records. Remember to open the Metadata accordion and add private Groups to search both public and private data.
+* While viewing search results in PBot Explore, you may find yourself wanting to edit information. You do need to switch over to the Workbench to do this. Before you leave the results page, copy the Name (for Collections or OTUs) or Specimen Number (for Specimens) to be able to quickly find and edit the appropriate node.
